@@ -18,7 +18,7 @@ spec:
         app: vote
     spec:
       containers:
-      - image: schoolofdevops/vote:v9
+      - image: schoolofdevops/vote:abc
         name: vote
         resources: {}
 status: {}
